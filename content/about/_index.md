@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Somos una empresa con más de 30 años en el mercado dedicada a la molienda de minerales no metálicos, ofreciendo producto de alta calidad y servicio."
 featured_image: ''
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
